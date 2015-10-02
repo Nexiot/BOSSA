@@ -1,7 +1,8 @@
 # BOSSA
 BOSSA ( Bangalore Open Solar Smart Automation)
-This is a community project initiative of Bangalore Open Source Hardware Association sponsored by Nexiot
-The project is to design and develop a affordable solar based lighting and Automation solution.
+This is a community project initiative of Bangalore Open Source Hardware Association sponsored by Nexiot.
+
+The project is to design and develop a affordable solar based lighting & Smart Automation DIY solution.
 
 OBJECTIVES :
 The project has 5 Objectives as listed below :
