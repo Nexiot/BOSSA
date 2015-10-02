@@ -5,7 +5,7 @@ The project is to design and develop a affordable solar based lighting and Autom
 
 OBJECTIVES :
 The project has 5 Objectives as listed below :
-   1. UNDERSTAND & LEARN the process of ideating a open source hardware project & APPLYING PRINCIPLES of open source
+   1. UNDERSTAND & LEARN the process of ideating a open source hardware project & APPLYING PRINCIPLES of open source hardware product development
    2. Create a open source product that will PROMOTE EDUCTAION & ADOPTION of solar power & SMART electronics
    3. Create a AFFORDABLE Do-It-Yourself Solution that will promote wide scale usage amongst community 
    4. Promote concepts of PERSONALIZATION/CUSTOMIZATION, which can be enabled by open source & 3D printing techniques
